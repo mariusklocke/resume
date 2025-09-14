@@ -1,5 +1,5 @@
 title = "Marius Klocke"
-baseURL = "http://localhost:8080"
+baseURL = "https://about.mklocke.de"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
