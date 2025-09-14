@@ -1,0 +1,150 @@
+[
+  {
+    "grouping": "Architecture",
+    "skills": [
+      {
+        "name": "Hexagonal Architecture",
+        "link": "https://en.wikipedia.org/wiki/Hexagonal_architecture_(software)"
+      },
+      {
+        "name": "Domain Driven Design",
+        "link": "https://en.wikipedia.org/wiki/Domain-driven_design"
+      },
+      {
+        "name": "Microservices",
+        "link": "https://en.wikipedia.org/wiki/Microservices"
+      },
+      {
+        "name": "RESTful APIs",
+        "link": "https://en.wikipedia.org/wiki/REST"
+      },
+      { 
+        "name": "GraphQL",
+        "link": "https://en.wikipedia.org/wiki/GraphQL"
+      }
+    ]
+  },
+  {
+    "grouping": "Languages & Frameworks",
+    "skills": [
+      {
+        "name": "PHP",
+        "icon": "php",
+        "link": "https://php.net"
+      },
+      {
+        "name": "Node.js",
+        "icon": "nodejs",
+        "link": "https://nodejs.org"
+      },
+      { 
+        "name": "Symfony",
+        "icon": "symfony",
+        "link": "https://symfony.com"
+      },
+      {
+        "name": "TypeScript",
+        "icon": "javascript",
+        "link": "https://typescriptlang.org"
+      },
+      {
+        "name": "Doctrine",
+        "icon": "doctrine",
+        "link": "https://doctrine-project.org"
+      },
+      {
+        "name": "MySQL",
+        "icon": "mysql",
+        "link": "https://mysql.com"
+      }
+    ]
+  },
+  {
+    "grouping": "Services & Tools",
+    "skills": [
+      { 
+        "name": "Gitlab",
+        "icon": "git",
+        "link": "https://gitlab.com"
+      },
+      {
+        "name": "GitHub",
+        "icon": "github",
+        "link": "https://github.com"
+      },
+      { 
+        "name": "NGINX",
+        "icon": "nginx",
+        "link": "https://nginx.org"
+      },
+      {
+        "name": "MariaDB",
+        "icon": "mysql",
+        "link": "https://mariadb.org"
+      },
+      {
+        "name": "Redis",
+        "icon": "redis",
+        "link": "https://redis.io"
+      },
+      {
+        "name": "Vector",
+        "link": "https://vector.dev"
+      },
+      {
+        "name": "Better Stack",
+        "link": "https://betterstack.com"
+      }
+    ]
+  },
+  {
+    "grouping": "Operating Systems",
+    "skills": [
+      {
+        "name": "Ubuntu Linux",
+        "icon": "ubuntu",
+        "link": "https://ubuntu.com"
+      },
+      {
+        "name": "Fedora Linux",
+        "icon": "linux",
+        "link": "https://fedoraproject.org"
+      },
+      {
+        "name": "Alpine Linux",
+        "icon": "linux",
+        "link": "https://alpinelinux.org"
+      },
+      {
+        "name": "Debian Linux",
+        "icon": "linux",
+        "link": "https://www.debian.org"
+      }
+    ]
+  },
+  {
+    "grouping": "Containers & Virtualization",
+    "skills": [
+      { 
+        "name": "LXD",
+        "icon": "ubuntu",
+        "link": "https://canonical.com/lxd"
+      },
+      {
+        "name": "Docker",
+        "icon": "docker",
+        "link": "https://docker.com"
+      },
+      {
+        "name": "Digitalocean",
+        "icon": "digital-ocean",
+        "link": "https://digitalocean.com"
+      },
+      {
+        "name": "Google Cloud",
+        "icon": "google-cloud-platform",
+        "link": "https://cloud.google.com"
+      }
+    ]
+  }
+]

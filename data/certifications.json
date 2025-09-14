@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Certified Professional for Software Architecture",
+    "description": "iSAQB Certified Professional for Software Architecture (Foundation)",
+    "badge": "https://images.credly.com/size/680x680/images/fbf755dd-ca5b-43c4-b1d6-e4899fe89214/00_badge_isaqb-cpsa-f2.png",
+    "proof": "https://www.isaqb.org/de/zertifizierungen/cpsa-foundation-level-pruefungen"
+  },
+  {
+    "name": "Certified TypeScript Developer",
+    "description": "Certified TypeScript Developer",
+    "badge": "https://images.credly.com/size/680x680/images/47572ec1-e407-42d7-9781-2a65f4c38228/image.png",
+    "proof": "https://workshops.de/seminare-schulungen-kurse/typescript"
+  }
+]

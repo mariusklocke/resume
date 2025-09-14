@@ -1,0 +1,32 @@
+[
+  {
+    "role": "Node.js Developer",
+    "company": "maxcluster GmbH",
+    "summary": "Developing Node.js microservices for infrastructure management",
+    "range": "August 2021 - Today"
+  },
+  {
+    "role": "Fullstack Developer",
+    "company": "Portaltech Reply GmbH",
+    "summary": "Realizing ecommerce projects with Shopware & Symfony",
+    "range": "June 2018 - August 2021"
+  },
+  {
+    "role": "Architecture Owner",
+    "company": "CTS Eventim Solutions GmbH",
+    "summary": "Technical Lead in agile development team",
+    "range": "March 2017 - June 2018"
+  },
+  {
+    "role": "Fullstack Developer",
+    "company": "CTS Eventim Solutions GmbH",
+    "summary": "Implementing highly available PHP Software using agile project management",
+    "range": "October 2014 - March 2017"
+  },
+  {
+    "role": "Software Developer",
+    "company": "PRO-ORG-EDV Service GmbH",
+    "summary": "Creating web frontends in PHP & Javascript for POS and inventory management",
+    "range": "July 2012 - October 2014"
+  }
+]
